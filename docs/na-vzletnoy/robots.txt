@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Sitemap: https://glebmorkovin.github.io/autoservice-demos/na-vzletnoy/sitemap.xml
