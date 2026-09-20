@@ -11,3 +11,4 @@
 | PROkuzov | `prokuzov` | https://glebmorkovin.github.io/autoservice-demos/prokuzov/ | 2026-09-20 |
 | Shinoair | `shinoair` | https://glebmorkovin.github.io/autoservice-demos/shinoair/ | 2026-09-20 |
 | Hot Tires | `hot-tires` | https://glebmorkovin.github.io/autoservice-demos/hot-tires/ | 2026-09-20 |
+| Ровное Колесо | `rovnoe-koleso` | https://glebmorkovin.github.io/autoservice-demos/rovnoe-koleso/ | 2026-09-20 |
