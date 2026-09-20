@@ -10,3 +10,4 @@
 | МКСервис | `mkservis` | https://glebmorkovin.github.io/autoservice-demos/mkservis/ | 2026-09-20 |
 | PROkuzov | `prokuzov` | https://glebmorkovin.github.io/autoservice-demos/prokuzov/ | 2026-09-20 |
 | Shinoair | `shinoair` | https://glebmorkovin.github.io/autoservice-demos/shinoair/ | 2026-09-20 |
+| Hot Tires | `hot-tires` | https://glebmorkovin.github.io/autoservice-demos/hot-tires/ | 2026-09-20 |
