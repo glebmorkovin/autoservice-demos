@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glebmorkovin.github.io/autoservice-demos/uvs/sitemap.xml

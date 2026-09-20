@@ -2,3 +2,4 @@
 
 | Название | Slug | Публичная ссылка | Дата публикации |
 | --- | --- | --- | --- |
+| ЮВС | `uvs` | https://glebmorkovin.github.io/autoservice-demos/uvs/ | 2026-09-20 |
