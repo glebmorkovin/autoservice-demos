@@ -1,0 +1,3 @@
+:HL["/autoservice-demos/shinomontazh-vsevolozhsk/_next/static/chunks/0y9pxybq7ph~0.css","style"]
+:HL["/autoservice-demos/shinomontazh-vsevolozhsk/images/workshop-hero.jpg","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"6FWbcRA7uWfS5ODnHeZBi"}
