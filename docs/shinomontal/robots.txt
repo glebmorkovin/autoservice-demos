@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://glebmorkovin.github.io/autoservice-demos/shinomontal
+Sitemap: https://glebmorkovin.github.io/autoservice-demos/shinomontal/sitemap.xml
