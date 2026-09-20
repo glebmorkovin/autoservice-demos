@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://glebmorkovin.github.io/autoservice-demos/mkservis/sitemap.xml

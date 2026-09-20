@@ -7,3 +7,6 @@
 | Орловский автосервис | `orlovskij` | https://glebmorkovin.github.io/autoservice-demos/orlovskij/ | 2026-09-20 |
 | Шиномонтаж на Плоткина, 11 | `plotkina11` | https://glebmorkovin.github.io/autoservice-demos/plotkina11/ | 2026-09-20 |
 | ШиноМонталь | `shinomontal` | https://glebmorkovin.github.io/autoservice-demos/shinomontal/ | 2026-09-20 |
+| МКСервис | `mkservis` | https://glebmorkovin.github.io/autoservice-demos/mkservis/ | 2026-09-20 |
+| PROkuzov | `prokuzov` | https://glebmorkovin.github.io/autoservice-demos/prokuzov/ | 2026-09-20 |
+| Shinoair | `shinoair` | https://glebmorkovin.github.io/autoservice-demos/shinoair/ | 2026-09-20 |
