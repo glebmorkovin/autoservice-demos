@@ -24,3 +24,9 @@
 | ШинкаРядом | `shinka-ryadom` | https://glebmorkovin.github.io/autoservice-demos/shinka-ryadom/ | 2026-09-21 |
 | Шиномонтаж в Разметелево | `razmetelevo` | https://glebmorkovin.github.io/autoservice-demos/razmetelevo/ | 2026-09-21 |
 | Шиномонтаж на Октябрьском | `na-oktyabrskom` | https://glebmorkovin.github.io/autoservice-demos/na-oktyabrskom/ | 2026-09-21 |
+| Шиномонтаж на Связи | `na-svyazi` | https://glebmorkovin.github.io/autoservice-demos/na-svyazi/ | 2026-09-21 |
+| Автосервис на Межевой | `avtomaster-147` | https://glebmorkovin.github.io/autoservice-demos/avtomaster-147/ | 2026-09-21 |
+| Professional | `professional` | https://glebmorkovin.github.io/autoservice-demos/professional/ | 2026-09-21 |
+| Shin-коннект | `shin-connect` | https://glebmorkovin.github.io/autoservice-demos/shin-connect/ | 2026-09-21 |
+| KDK-Motors | `kdk-motors` | https://glebmorkovin.github.io/autoservice-demos/kdk-motors/ | 2026-09-21 |
+| Craft | `craft` | https://glebmorkovin.github.io/autoservice-demos/craft/ | 2026-09-21 |
