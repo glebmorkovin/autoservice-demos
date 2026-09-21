@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glebmorkovin.github.io/autoservice-demos/shinka-ryadom/sitemap.xml
