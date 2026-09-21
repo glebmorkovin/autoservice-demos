@@ -30,3 +30,9 @@
 | Shin-коннект | `shin-connect` | https://glebmorkovin.github.io/autoservice-demos/shin-connect/ | 2026-09-21 |
 | KDK-Motors | `kdk-motors` | https://glebmorkovin.github.io/autoservice-demos/kdk-motors/ | 2026-09-21 |
 | Craft | `craft` | https://glebmorkovin.github.io/autoservice-demos/craft/ | 2026-09-21 |
+| Forvater | `forvater` | https://glebmorkovin.github.io/autoservice-demos/forvater/ | 2026-09-21 |
+| Krauch | `krauch` | https://glebmorkovin.github.io/autoservice-demos/krauch/ | 2026-09-21 |
+| Tiretech | `tiretech` | https://glebmorkovin.github.io/autoservice-demos/tiretech/ | 2026-09-21 |
+| Paradise | `paradise` | https://glebmorkovin.github.io/autoservice-demos/paradise/ | 2026-09-21 |
+| Автогарант | `avtogarant` | https://glebmorkovin.github.io/autoservice-demos/avtogarant/ | 2026-09-21 |
+| Fast+ | `fast` | https://glebmorkovin.github.io/autoservice-demos/fast/ | 2026-09-21 |
