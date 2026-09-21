@@ -14,3 +14,4 @@
 | Ровное Колесо | `rovnoe-koleso` | https://glebmorkovin.github.io/autoservice-demos/rovnoe-koleso/ | 2026-09-20 |
 | Синопсис плюс | `sinopsis-plus` | https://glebmorkovin.github.io/autoservice-demos/sinopsis-plus/ | 2026-09-21 |
 | Шиномонтаж во Всеволожске | `shinomontazh-vsevolozhsk` | https://glebmorkovin.github.io/autoservice-demos/shinomontazh-vsevolozhsk/ | 2026-09-21 |
+| Koleso98 | `koleso98` | https://glebmorkovin.github.io/autoservice-demos/koleso98/ | 2026-09-21 |
