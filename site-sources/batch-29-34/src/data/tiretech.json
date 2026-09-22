@@ -1,0 +1,77 @@
+{
+  "business": {
+    "name": "Tiretech",
+    "location": "Гатчина, Ленинградская область",
+    "address": "Осенняя ул., 9",
+    "phones": [
+      "+7 (929) 178-20-15"
+    ],
+    "hours": "круглосуточно",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "выездной шиномонтаж",
+    "ремонт шин",
+    "помощь на дороге"
+  ],
+  "prices": [],
+  "price_note": "Публичный прайс не найден.",
+  "design_direction": "«Technical tire lab»: белый, графит и кислотно-зелёный только как небольшой статусный акцент. Сетка похожа на технический паспорт шины: размер, симптом, тип работ. Реальные фото оборудования и колеса, никакой псевдо-3D резины.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=Tiretech%20%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F%20%D1%83%D0%BB.%2C%209%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/Tiretech%20%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F%20%D1%83%D0%BB.%2C%209%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://gatchina.spravker.ru/vyezdnoi-shinomontazh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "31_tiretech_01.jpg",
+        "role": "hero",
+        "description_ru": "Мобильный шиномонтаж у оснащённого сервисного фургона.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "31_tiretech_02.jpg",
+        "role": "service",
+        "description_ru": "Шиномонтажное оборудование и работа мастера в мобильной мастерской.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "31_tiretech_03.jpg",
+        "role": "service",
+        "description_ru": "Точный ремонт прокола автомобильной шины.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "31_tiretech_04.jpg",
+        "role": "service",
+        "description_ru": "Диагностика и балансировка колеса на современном оборудовании.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  }
+}

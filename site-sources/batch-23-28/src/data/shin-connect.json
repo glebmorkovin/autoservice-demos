@@ -1,0 +1,110 @@
+{
+  "business": {
+    "name": "Shin-коннект",
+    "location": "Гатчина, Ленинградская область",
+    "address": "ул. Чкалова, 1А",
+    "phones": [
+      "+7 (921) 956-54-83"
+    ],
+    "hours": "круглосуточно",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "шиномонтаж",
+    "выездной шиномонтаж",
+    "балансировка",
+    "вулканизация",
+    "ремонт боковых порезов",
+    "ремонт шин",
+    "работа с R12–R24"
+  ],
+  "prices": [
+    "Выездной шиномонтаж — около 1 500 ₽ по справочнику (подтвердить)"
+  ],
+  "price_note": "Не закреплять цену без звонка.",
+  "design_direction": "«Connect»: чёрный и электрический синий, но визуал строится не на абстрактных нейросетях, а на реальной геометрии гайки/болта и соединения колеса со ступицей. Mobile-first, 24/7, большой блок выезда.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=Shin-%D0%BA%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%20%D1%83%D0%BB.%20%D0%A7%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%2C%201%D0%90%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/Shin-%D0%BA%D0%BE%D0%BD%D0%BD%D0%B5%D0%BA%D1%82%20%D1%83%D0%BB.%20%D0%A7%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%2C%201%D0%90%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://gatchina.spravker.ru/shinomontazh/",
+    "https://gatchina.spravker.ru/vyezdnoi-shinomontazh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "26_shin_konnekt_01.jpg",
+        "role": "hero",
+        "description_ru": "Тёмная графитовая мастерская с электрически-синими акцентами.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "26_shin_konnekt_02.jpg",
+        "role": "service",
+        "description_ru": "Выездной шиномонтаж с переносным компрессором и инструментом.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "26_shin_konnekt_03.jpg",
+        "role": "service",
+        "description_ru": "Балансировка колеса на профессиональном стенде.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "26_shin_konnekt_04.jpg",
+        "role": "service",
+        "description_ru": "Ремонт прокола и повреждения протектора.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "connect",
+  "hero": "connect",
+  "title": [
+    "Shin-коннект"
+  ],
+  "tag": "Гатчина • ул. Чкалова, 1А",
+  "lead": "Стационарный и выездной шиномонтаж. Балансировка и ремонт шин — в Гатчине круглосуточно.",
+  "heading": "Нужно на месте или с выездом?",
+  "feature": [
+    "Выездной шиномонтаж",
+    "Балансировка",
+    "Ремонт шин"
+  ],
+  "accent": "#3978f5",
+  "bg": "#ecf2fb",
+  "dark": "#101b2d",
+  "serviceStyle": "signs",
+  "featureHeading": "Выезд — часть услуг.",
+  "stamp": "24/7",
+  "stampLabel": "Круглосуточно",
+  "slug": "shin-connect",
+  "id": 26,
+  "address": "ул. Чкалова, 1А",
+  "hours": "круглосуточно",
+  "note": "",
+  "email": ""
+}

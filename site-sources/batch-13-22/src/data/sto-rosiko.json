@@ -1,0 +1,106 @@
+{
+  "business": {
+    "name": "СТО Росико",
+    "location": "Всеволожск, Ленинградская область",
+    "address": "ул. Комсомола, 5/1",
+    "phones": [
+      "+7 (921) 904-44-64"
+    ],
+    "hours": "ежедневно 12:00–21:00",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "автосервис",
+    "ремонт ходовой",
+    "шиномонтаж",
+    "хранение шин",
+    "утилизация шин",
+    "полировка",
+    "обслуживание/заправка кондиционера"
+  ],
+  "prices": [],
+  "price_note": "Публичный актуальный прайс не найден.",
+  "design_direction": "«Документальный сервис»: шалфейно-серый + графит, много реальных деталей мастерской и коротких фактов. Страница не должна выглядеть как сеть: один адрес, один телефон, простой график, человеческая подача услуг. В FAQ — что можно сделать за один визит и как записаться.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=%D0%A1%D0%A2%D0%9E%20%D0%A0%D0%BE%D1%81%D0%B8%D0%BA%D0%BE%20%D1%83%D0%BB.%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D0%B0%2C%205/1%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/%D0%A1%D0%A2%D0%9E%20%D0%A0%D0%BE%D1%81%D0%B8%D0%BA%D0%BE%20%D1%83%D0%BB.%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D0%B0%2C%205/1%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://spb.spravker.ru/gorod-vsevolozhsk/khranenie-shin/",
+    "https://mestam.info/ru/vsevolojsk/remont-hodovoi-chasti-avtomobilya"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "17_sto_rosiko_01.jpg",
+        "role": "hero",
+        "description_ru": "Современная ремзона с автомобилем на подъёмнике.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "17_sto_rosiko_02.jpg",
+        "role": "service",
+        "description_ru": "Ремонт тормозной системы и элементов ходовой.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "17_sto_rosiko_03.jpg",
+        "role": "service",
+        "description_ru": "Шиномонтаж и работа с колесом на станке.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "17_sto_rosiko_04.jpg",
+        "role": "service",
+        "description_ru": "Диагностика и обслуживание автомобильного кондиционера.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "sage",
+  "hero": "editorial",
+  "title": [
+    "СТО",
+    "Росико"
+  ],
+  "tag": "Автосервис на Комсомола, 5/1",
+  "lead": "Ходовая, колёса, кондиционер. Соберите вопросы к автомобилю в один список и обсудите удобное время визита.",
+  "heading": "Что нужно вашему автомобилю?",
+  "feature": [
+    "Ремонт ходовой",
+    "Работы с колёсами",
+    "Обслуживание кондиционера"
+  ],
+  "accent": "#435e4e",
+  "bg": "#f3f1e9",
+  "dark": "#27302c",
+  "serviceStyle": "columns",
+  "slug": "sto-rosiko",
+  "id": 17,
+  "address": "ул. Комсомола, 5/1",
+  "hours": "ежедневно 12:00–21:00",
+  "note": "",
+  "email": ""
+}

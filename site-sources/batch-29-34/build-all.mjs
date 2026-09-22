@@ -1,0 +1,5 @@
+import {spawnSync} from 'node:child_process';
+import fs from 'node:fs';
+
+const sites=[['forvater','#ea712f'],['krauch','#cf8c1d'],['tiretech','#809b31'],['paradise','#8d79af'],['avtogarant','#b6925a'],['fast','#d83b35']];
+for(const [slug,color] of sites){const base=`https://glebmorkovin.github.io/autoservice-demos/${slug}/`;const pub=`public-sites/${slug}`;fs.writeFileSync(`${pub}/favicon.svg`,`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#182126"/><path d="M13 48V16h38M13 48h38" fill="none" stroke="${color}" stroke-width="8"/></svg>`);fs.writeFileSync(`${pub}/robots.txt`,`User-agent: *\nAllow: /\nSitemap: ${base}sitemap.xml\n`);fs.writeFileSync(`${pub}/sitemap.xml`,`<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>${base}</loc></url></urlset>\n`);console.log('BUILD',slug);const result=spawnSync('npm',['run','build'],{env:{...process.env,VITE_SITE:slug},stdio:'inherit'});if(result.status!==0)process.exit(result.status||1)}

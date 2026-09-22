@@ -1,0 +1,102 @@
+{
+  "business": {
+    "name": "Шиномонтаж на Октябрьском",
+    "location": "Всеволожск, Ленинградская область",
+    "address": "Октябрьский просп., 1",
+    "phones": [
+      "+7 (999) 239-73-86"
+    ],
+    "hours": "ежедневно 09:00–20:00",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "шиномонтаж",
+    "ремонт шин",
+    "утилизация шин"
+  ],
+  "prices": [],
+  "price_note": "Прайс не опубликован.",
+  "design_direction": "Компактный «station site»: светлый фон, чёрная типографика и один красный маршрутный акцент. Страница очень быстрая: услуги, часы, телефон, карта, FAQ. Без выдуманного логотипа — адрес работает как идентификатор.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=%D0%A8%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%20%D0%BD%D0%B0%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF.%2C%201%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/%D0%A8%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%20%D0%BD%D0%B0%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%BE%D0%BC%20%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF.%2C%201%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://spb.spravker.ru/gorod-vsevolozhsk/shinomontazh/",
+    "https://spb.spravker.ru/gorod-vsevolozhsk/utilizatsiia-shin/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "22_sinomontaj_na_oktabr_skom_01.jpg",
+        "role": "hero",
+        "description_ru": "Светлая компактная шиномонтажная зона с автомобилем и оборудованием.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "22_sinomontaj_na_oktabr_skom_02.jpg",
+        "role": "service",
+        "description_ru": "Шиномонтаж на профессиональном оборудовании.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "22_sinomontaj_na_oktabr_skom_03.jpg",
+        "role": "service",
+        "description_ru": "Ремонт прокола и локального повреждения шины.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "22_sinomontaj_na_oktabr_skom_04.jpg",
+        "role": "service",
+        "description_ru": "Склад и зона сбора шин; использовать для блока хранения/утилизации.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "station",
+  "hero": "station",
+  "title": [
+    "Шиномонтаж",
+    "на Октябрьском"
+  ],
+  "tag": "Всеволожск • Октябрьский проспект, 1",
+  "lead": "Шиномонтаж, ремонт и утилизация шин. Три направления — один адрес на Октябрьском проспекте.",
+  "heading": "Три задачи для ваших шин.",
+  "feature": [
+    "Шиномонтаж",
+    "Ремонт шин",
+    "Утилизация шин"
+  ],
+  "accent": "#c93d2e",
+  "bg": "#faf9f5",
+  "dark": "#252725",
+  "serviceStyle": "compact",
+  "slug": "na-oktyabrskom",
+  "id": 22,
+  "address": "Октябрьский просп., 1",
+  "hours": "ежедневно 09:00–20:00",
+  "note": "",
+  "email": ""
+}

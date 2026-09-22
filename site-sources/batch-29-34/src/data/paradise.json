@@ -1,0 +1,83 @@
+{
+  "business": {
+    "name": "Paradise",
+    "location": "Гатчина, Ленинградская область",
+    "address": "Киевская ул., 17В",
+    "phones": [
+      "+7 (921) 329-53-86"
+    ],
+    "hours": "круглосуточно",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "автосервис",
+    "диагностика и регулировка фар",
+    "установка ксенона",
+    "полировка фар",
+    "замена лямбда-зонда",
+    "ремонт дверей",
+    "замена масла аппаратным способом",
+    "обслуживание климатической системы"
+  ],
+  "prices": [],
+  "price_note": "Публичный прайс не найден.",
+  "design_direction": "Не делать «рай/пальмы». Премиальный городской сервис: midnight violet, ледяной серебристый и белый. Сильные фото оптики/фар и чистой рабочей зоны. Название Paradise набрано строго, а не курортно.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=Paradise%20%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%2017%D0%92%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/Paradise%20%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%2017%D0%92%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://gatchina.spravker.ru/kompiuternaia-diagnostika-avtomobilia/",
+    "https://gatchina.spravker.ru/diagnostika-sistemy-okhlazhdeniia/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "32_paradise_01.jpg",
+        "role": "hero",
+        "description_ru": "Премиальный городской сервис в midnight-violet и серебристой гамме; использовать как визуальный фон, не как фото реальной точки.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "32_paradise_02.jpg",
+        "role": "service",
+        "description_ru": "Диагностика и регулировка автомобильной оптики.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "32_paradise_03.jpg",
+        "role": "service",
+        "description_ru": "Полировка и восстановление прозрачности фары.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "32_paradise_04.jpg",
+        "role": "service",
+        "description_ru": "Обслуживание климатической системы автомобиля.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+[
+  {
+    "slug": "avtogarant",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "avtomaster-147",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "craft",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "fast",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "forvater",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "hot-tires",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "kdk-motors",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "koleso98",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "krauch",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "magnum",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "mkservis",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": true,
+      "closed": true
+    }
+  },
+  {
+    "slug": "na-beregu",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "na-oktyabrskom",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "na-svyazi",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "na-vzletnoy",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "orlovskij",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "paradise",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "plotkina11",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "professional",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "prokuzov",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "razmetelevo",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "rokada",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "rovnoe-koleso",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "shin-connect",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "shinka-ryadom",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "shinoair",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": true,
+      "closed": true
+    }
+  },
+  {
+    "slug": "shinomontal",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "shinomontazh-vsevolozhsk",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "siniy-garazh",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "sinopsis-plus",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "sto-rosiko",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "tiretech",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  },
+  {
+    "slug": "uvs",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": true,
+      "closed": true
+    }
+  },
+  {
+    "slug": "zhelezny-medved",
+    "http": 200,
+    "widths": [
+      320,
+      375,
+      390,
+      430,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "horizontalOverflow": false,
+    "localAssetErrors": [],
+    "javascriptErrors": [],
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    }
+  }
+]

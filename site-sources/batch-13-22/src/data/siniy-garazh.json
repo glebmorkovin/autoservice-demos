@@ -1,0 +1,111 @@
+{
+  "business": {
+    "name": "Синий гараж",
+    "location": "Всеволожск, Ленинградская область",
+    "address": "Культуры, 58Г",
+    "phones": [
+      "+7 (950) 028-83-83"
+    ],
+    "hours": "",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "автосервис",
+    "шиномонтаж",
+    "замена масла",
+    "ремонт двигателя",
+    "ремонт ходовой и подвески",
+    "замена тормозных колодок",
+    "антикоррозийная обработка",
+    "тюнинг",
+    "установка ксенона",
+    "ремонт мототехники",
+    "замена/ремонт деталей"
+  ],
+  "prices": [],
+  "price_note": "Публичный актуальный прайс не найден.",
+  "design_direction": "«Синий гараж» без глянца: насыщенный индиго, серый металл и тёплый белый. Фотографии мастерской в репортажном стиле, крупные номера боксов/инструменты. Логотип может быть простым типографическим штампом, не генерировать сложный «AI-автоэмблемный» знак.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=%D0%A1%D0%B8%D0%BD%D0%B8%D0%B9%20%D0%B3%D0%B0%D1%80%D0%B0%D0%B6%20%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%2058%D0%93%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA",
+    "2gis": "https://2gis.ru/spb/search/%D0%A1%D0%B8%D0%BD%D0%B8%D0%B9%20%D0%B3%D0%B0%D1%80%D0%B0%D0%B6%20%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B%2058%D0%93%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://zoon.ru/spb/autoservice/sinij_garazh/",
+    "https://mestam.info/ru/vsevolojsk/address/kulturi-58g",
+    "https://spb.spravker.ru/gorod-vsevolozhsk/remont-gryzh-na-shinakh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "13_sinij_garaj_01.jpg",
+        "role": "hero",
+        "description_ru": "Современная ремзона с автомобилем на подъёмнике; фон первого экрана.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "13_sinij_garaj_02.jpg",
+        "role": "service",
+        "description_ru": "Диагностика и обслуживание двигателя.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "13_sinij_garaj_03.jpg",
+        "role": "service",
+        "description_ru": "Ремонт тормозной системы и ходовой.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "13_sinij_garaj_04.jpg",
+        "role": "service",
+        "description_ru": "Шиномонтаж и балансировка колеса.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "garage",
+  "hero": "split",
+  "title": [
+    "Синий",
+    "гараж"
+  ],
+  "tag": "Автосервис • Всеволожск",
+  "lead": "От замены масла до ремонта двигателя. Автомобиль, мотоцикл и сезонные работы с колёсами — обсудим вашу задачу по телефону.",
+  "heading": "Ремонт. Обслуживание. И всё между ними.",
+  "feature": [
+    "Двигатель и масло",
+    "Ходовая и тормоза",
+    "Шиномонтаж"
+  ],
+  "accent": "#293db6",
+  "bg": "#eeeDE7",
+  "dark": "#141b34",
+  "address": "Культуры, 58Г",
+  "hours": "",
+  "note": "",
+  "serviceStyle": "ledger",
+  "slug": "siniy-garazh",
+  "id": 13,
+  "email": ""
+}

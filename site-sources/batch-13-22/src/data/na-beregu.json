@@ -1,0 +1,106 @@
+{
+  "business": {
+    "name": "На берегу",
+    "location": "Всеволожск, Ленинградская область",
+    "address": "Солнечная ул., 8",
+    "phones": [
+      "+7 (921) 580-90-86"
+    ],
+    "hours": "круглосуточно",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "шиномонтаж",
+    "грузовой шиномонтаж",
+    "вулканизация",
+    "ремонт шин",
+    "хранение шин",
+    "утилизация шин"
+  ],
+  "prices": [],
+  "price_note": "Публичного актуального прайса нет.",
+  "design_direction": "«Сервис у дороги, а не морской бренд»: бензиново-синий, песочный и белый. Лёгкая линия горизонта в композиции, но никаких волн/якорей. Главное — круглосуточный режим, крупный маршрут и реальная фотография точки вечером/ночью.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=%D0%9D%D0%B0%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D1%83%20%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%208%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/%D0%9D%D0%B0%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D1%83%20%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%208%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://spb.spravker.ru/gorod-vsevolozhsk/khranenie-shin/",
+    "https://spb.spravker.ru/gorod-vsevolozhsk/gruzovoi-shinomontazh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "19_na_beregu_01.jpg",
+        "role": "hero",
+        "description_ru": "Современная прохладная сине-графитовая сервисная зона для первого экрана.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "19_na_beregu_02.jpg",
+        "role": "service",
+        "description_ru": "Обслуживание колеса грузового/коммерческого автомобиля.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "19_na_beregu_03.jpg",
+        "role": "service",
+        "description_ru": "Ремонт и вулканизация автомобильной шины.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "19_na_beregu_04.jpg",
+        "role": "service",
+        "description_ru": "Организованное хранение шин и дисков.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "horizon",
+  "hero": "horizon",
+  "title": [
+    "На берегу"
+  ],
+  "tag": "Шиномонтаж на Солнечной, 8",
+  "lead": "Днём или ночью: легковые и грузовые колёса, ремонт шин и вулканизация во Всеволожске.",
+  "heading": "Сервис для вашего маршрута.",
+  "feature": [
+    "Грузовой шиномонтаж",
+    "Ремонт и вулканизация",
+    "Хранение шин"
+  ],
+  "accent": "#d9bb88",
+  "bg": "#f0eadd",
+  "dark": "#123a48",
+  "serviceStyle": "columns",
+  "stamp": "24/7",
+  "stampLabel": "Днём и ночью",
+  "slug": "na-beregu",
+  "id": 19,
+  "address": "Солнечная ул., 8",
+  "hours": "круглосуточно",
+  "note": "",
+  "email": ""
+}

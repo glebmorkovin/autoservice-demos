@@ -1,0 +1,109 @@
+{
+  "business": {
+    "name": "KDK-Motors",
+    "location": "д. Большая Ивановка, Гатчинский район",
+    "address": "д. Большая Ивановка",
+    "phones": [
+      "+7 (952) 268-31-37"
+    ],
+    "hours": "вт–сб 09:30–19:00",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "автосервис",
+    "шиномонтаж",
+    "диагностика автомобиля",
+    "компьютерная диагностика",
+    "диагностика двигателя",
+    "ремонт бензинового двигателя",
+    "проверка ремня и цепи ГРМ",
+    "ремонт ходовой",
+    "замена масла",
+    "обслуживание климатической системы"
+  ],
+  "prices": [],
+  "price_note": "Свежий публичный прайс не найден.",
+  "design_direction": "«Motors / mechanical»: чёрный, белый и красный; визуальная система из схем реальных деталей двигателя и подвески, но простых и инженерных. Главный экран с реальным моторным отсеком, затем диагностика по симптомам.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=KDK-Motors%20%D0%B4.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0",
+    "2gis": "https://2gis.ru/spb/search/KDK-Motors%20%D0%B4.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://gatchina.spravker.ru/shinomontazh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "27_kdk_motors_01.jpg",
+        "role": "hero",
+        "description_ru": "Универсальная светлая ремзона для первого экрана автосервиса.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "27_kdk_motors_02.jpg",
+        "role": "service",
+        "description_ru": "Компьютерная диагностика автомобиля.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "27_kdk_motors_03.jpg",
+        "role": "service",
+        "description_ru": "Диагностика и обслуживание двигателя.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "27_kdk_motors_04.jpg",
+        "role": "service",
+        "description_ru": "Ремонт ходовой и тормозной системы.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "motors",
+  "hero": "motors",
+  "title": [
+    "KDK-",
+    "Motors"
+  ],
+  "tag": "Большая Ивановка • Гатчинский район",
+  "lead": "Диагностируем и ремонтируем двигатель и ходовую, меняем масло и обслуживаем автомобиль. Запись по телефону.",
+  "heading": "Диагностика → понятная задача.",
+  "feature": [
+    "Компьютерная диагностика",
+    "Работы с двигателем",
+    "Ремонт ходовой"
+  ],
+  "accent": "#dd3f36",
+  "bg": "#f0f0ed",
+  "dark": "#1b2228",
+  "serviceStyle": "columns",
+  "address": "д. Большая Ивановка",
+  "note": "",
+  "featureHeading": "Автомобиль как система.",
+  "slug": "kdk-motors",
+  "id": 27,
+  "hours": "вт–сб 09:30–19:00",
+  "email": ""
+}

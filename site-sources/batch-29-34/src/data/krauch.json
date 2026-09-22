@@ -1,0 +1,77 @@
+{
+  "business": {
+    "name": "Krauch",
+    "location": "д. Романовка, Гатчинский район",
+    "address": "д. Романовка, 9",
+    "phones": [
+      "+7 (929) 178-71-81"
+    ],
+    "hours": "ежедневно 06:00–23:00",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "выездной шиномонтаж",
+    "ремонт шин",
+    "помощь с колесом на дороге"
+  ],
+  "prices": [],
+  "price_note": "Публичный прайс не найден.",
+  "design_direction": "Утилитарный roadside-сайт: чёрный, янтарный и белый. Никакого сложного брендинга, только быстрый сценарий звонка и география выезда. Фотографии — реальный автомобиль сервиса, инструмент и работа мастера.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=Krauch%20%D0%B4.%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%2C%209%20%D0%B4.%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%2C%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD",
+    "2gis": "https://2gis.ru/spb/search/Krauch%20%D0%B4.%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%2C%209%20%D0%B4.%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%2C%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://gatchina.spravker.ru/vyezdnoi-shinomontazh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "30_krauch_01.jpg",
+        "role": "hero",
+        "description_ru": "Выездной шиномонтаж у автомобиля рядом с сервисным фургоном.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "30_krauch_02.jpg",
+        "role": "service",
+        "description_ru": "Помощь с колесом на дороге в сложных погодных условиях.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "30_krauch_03.jpg",
+        "role": "service",
+        "description_ru": "Профессиональный ремонт автомобильной шины.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "30_krauch_04.jpg",
+        "role": "service",
+        "description_ru": "Выездная дорожная помощь и обслуживание колеса.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  }
+}

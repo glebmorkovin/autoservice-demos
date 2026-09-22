@@ -1,0 +1,107 @@
+{
+  "business": {
+    "name": "Железный медведь",
+    "location": "Всеволожск, Ленинградская область",
+    "address": "Севастопольская ул., 2 к3 / мкр. Южный",
+    "phones": [
+      "+7 (904) 637-22-51"
+    ],
+    "hours": "ежедневно 10:00–21:00",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "шиномонтаж",
+    "грузовой шиномонтаж",
+    "ремонт шин/грыж",
+    "хранение шин",
+    "продажа шин и дисков",
+    "утилизация шин",
+    "покраска/порошковая окраска дисков"
+  ],
+  "prices": [],
+  "price_note": "Публичного свежего прайса не найдено.",
+  "design_direction": "«Heavy workshop»: тёмный коричнево-графитовый металл, тёплый серый, крупный condensed-шрифт. Медведя использовать только если на реальной вывеске/логотипе он присутствует; иначе название работает типографически. Фото грузовых колёс и оборудования могут стать сильнее любых иллюстраций.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%202%20%D0%BA3%20/%20%D0%BC%D0%BA%D1%80.%20%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%202%20%D0%BA3%20/%20%D0%BC%D0%BA%D1%80.%20%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://mestam.info/ru/vsevolojsk/address/sevastopolskaya-2-k3-1-etaj",
+    "https://spb.spravker.ru/gorod-vsevolozhsk/khranenie-shin/",
+    "https://spb.spravker.ru/gorod-vsevolozhsk/remont-gryzh-na-shinakh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "16_jeleznyj_medved_01.jpg",
+        "role": "hero",
+        "description_ru": "Тёмная индустриальная шиномонтажная мастерская с внедорожником.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "16_jeleznyj_medved_02.jpg",
+        "role": "service",
+        "description_ru": "Грузовой шиномонтаж и обслуживание массивного колеса.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "16_jeleznyj_medved_03.jpg",
+        "role": "service",
+        "description_ru": "Индустриальная зона хранения шин и дисков.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "16_jeleznyj_medved_04.jpg",
+        "role": "service",
+        "description_ru": "Покраска и восстановление автомобильного диска.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "heavy",
+  "hero": "immersive",
+  "title": [
+    "Железный",
+    "медведь"
+  ],
+  "tag": "Легковой и грузовой шиномонтаж",
+  "lead": "Колёса, шины и диски. От шиномонтажа до порошковой окраски — в микрорайоне Южный.",
+  "heading": "Работа с колёсами. Во всех деталях.",
+  "feature": [
+    "Грузовые колёса",
+    "Хранение шин",
+    "Порошковая окраска"
+  ],
+  "accent": "#bd926c",
+  "bg": "#e6dfd5",
+  "dark": "#25211e",
+  "serviceStyle": "ledger",
+  "slug": "zhelezny-medved",
+  "id": 16,
+  "address": "Севастопольская ул., 2 к3 / мкр. Южный",
+  "hours": "ежедневно 10:00–21:00",
+  "note": "",
+  "email": ""
+}

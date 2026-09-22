@@ -1,0 +1,77 @@
+{
+  "business": {
+    "name": "Forvater",
+    "location": "Гатчина, Ленинградская область",
+    "address": "Двинская ул., 7",
+    "phones": [
+      "+7 (999) 009-74-98"
+    ],
+    "hours": "круглосуточно",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "выездной шиномонтаж",
+    "техническая помощь на дороге",
+    "ремонт шин"
+  ],
+  "prices": [],
+  "price_note": "Публичный прайс не найден.",
+  "design_direction": "«Навигация / фарватер»: тёмно-синий и оранжевый, визуальная система из маршрутной линии и координат. Не использовать морские картинки; «фарватер» передаётся через понятный путь: заявка → мастер выехал → ремонт → едете дальше.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=Forvater%20%D0%94%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%207%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/Forvater%20%D0%94%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%207%20%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://gatchina.spravker.ru/vyezdnoi-shinomontazh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "29_forvater_01.jpg",
+        "role": "hero",
+        "description_ru": "Ночная дорожная помощь с мобильным сервисным автомобилем; hero-фон.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "29_forvater_02.jpg",
+        "role": "service",
+        "description_ru": "Техническая помощь с колесом на дороге.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "29_forvater_03.jpg",
+        "role": "service",
+        "description_ru": "Ремонт повреждённой автомобильной шины.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "29_forvater_04.jpg",
+        "role": "service",
+        "description_ru": "Ремонт/замена автомобильного стекла выездным мастером.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  }
+}

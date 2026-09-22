@@ -1,2 +1,2 @@
-:HL["/autoservice-demos/hot-tires/_next/static/chunks/0hako2jpwzt6s.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Fbor1aqj-8Yzj90bN0b9G"}
+:HL["/autoservice-demos/hot-tires/_next/static/css/c67a639755ee0ab9.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"H-pKE-eEPRovXI4BZM3Ty"}

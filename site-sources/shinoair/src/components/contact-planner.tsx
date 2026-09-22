@@ -1,0 +1,2 @@
+import {siteData} from '../data/site';
+export function ContactPlanner(){return <aside className="call-planner"><p className="eyebrow">Запись по телефону</p><h3>Расскажите о проблеме с колесом</h3><p>Перед звонком подготовьте марку автомобиля, размер колёс и адрес, если нужна помощь на дороге.</p><ul><li>Какие работы нужны</li><li>Где находится автомобиль</li><li>Какой размер шин</li></ul><a className="button button-dark" href={siteData.phoneHref}>Позвонить {siteData.phoneDisplay}</a></aside>}

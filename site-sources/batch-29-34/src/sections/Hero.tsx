@@ -1,0 +1,4 @@
+import {data,view} from '../data';
+import {Call,Route,Photo} from '../components/Shell';
+
+export default function Hero(){return <section className="hero" id="top"><div className="hero-copy"><p className="kicker">{view.eyebrow}</p><p className="hero-brand">{data.business.name}</p><h1>{view.headline}</h1><p className="hero-lead">{view.lead}</p><div className="actions"><Call/><Route/></div><div className="hero-facts"><a href={data.maps.yandex} target="_blank" rel="noreferrer"><small>Адрес</small>{data.business.address}<br/>{data.business.location}</a><div><small>Режим работы</small>{data.business.hours}</div></div></div><Photo index={0} hero className="hero-photo"/><div className="hero-index" aria-hidden="true"><span>{data.business.name}</span><span>{data.business.location.split(',')[0]}</span></div></section>}

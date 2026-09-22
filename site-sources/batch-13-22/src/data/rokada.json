@@ -1,0 +1,103 @@
+{
+  "business": {
+    "name": "Рокада",
+    "location": "Всеволожск, Ленинградская область",
+    "address": "Центральная ул., 8, мкр. Южный",
+    "phones": [
+      "+7 (921) 648-74-90"
+    ],
+    "hours": "круглосуточно",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "шиномонтаж",
+    "правка/прокатка дисков",
+    "вулканизация",
+    "ремонт шин"
+  ],
+  "prices": [],
+  "price_note": "Свежий прайс не найден.",
+  "design_direction": "«Рокада / дорожная разметка»: асфальтовый графит, белый, дорожный оранжевый. Карточки услуг построить как дорожные знаки без буквального копирования знаков. Главное преимущество визуально — 24/7 и понятный маршрут.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=%D0%A0%D0%BE%D0%BA%D0%B0%D0%B4%D0%B0%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%208%2C%20%D0%BC%D0%BA%D1%80.%20%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/%D0%A0%D0%BE%D0%BA%D0%B0%D0%B4%D0%B0%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%83%D0%BB.%2C%208%2C%20%D0%BC%D0%BA%D1%80.%20%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://spb.spravker.ru/gorod-vsevolozhsk/vulkanizatsiia-shin/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "15_rokada_01.jpg",
+        "role": "hero",
+        "description_ru": "Современная шиномонтажная зона для hero-блока.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "15_rokada_02.jpg",
+        "role": "service",
+        "description_ru": "Работа мастера на шиномонтажном оборудовании.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "15_rokada_03.jpg",
+        "role": "service",
+        "description_ru": "Правка и восстановление автомобильного диска.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "15_rokada_04.jpg",
+        "role": "service",
+        "description_ru": "Ремонт повреждённой шины.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "road",
+  "hero": "road",
+  "title": [
+    "Рокада"
+  ],
+  "tag": "Шиномонтаж • Южный",
+  "lead": "Ремонт шин, правка дисков и вулканизация. Центральная, 8 — обращайтесь в любое время суток.",
+  "heading": "Четыре направления. Один маршрут.",
+  "feature": [
+    "Шиномонтаж",
+    "Правка дисков",
+    "Ремонт шин"
+  ],
+  "accent": "#f78c3c",
+  "bg": "#eeeFE9",
+  "dark": "#202322",
+  "serviceStyle": "signs",
+  "stamp": "24/7",
+  "stampLabel": "Круглосуточно",
+  "slug": "rokada",
+  "id": 15,
+  "address": "Центральная ул., 8, мкр. Южный",
+  "hours": "круглосуточно",
+  "note": "",
+  "email": ""
+}

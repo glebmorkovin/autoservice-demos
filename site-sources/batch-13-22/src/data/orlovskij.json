@@ -1,0 +1,105 @@
+{
+  "business": {
+    "name": "Орловский",
+    "location": "Всеволожск, Ленинградская область",
+    "address": "ш. Дорога Жизни, 9Б",
+    "phones": [
+      "+7 (931) 597-90-44"
+    ],
+    "hours": "ежедневно 09:00–20:00",
+    "website": "",
+    "checked_at": "2026-08-07"
+  },
+  "services": [
+    "шиномонтаж",
+    "грузовой шиномонтаж",
+    "подкачка шин",
+    "вулканизация",
+    "хранение шин",
+    "утилизация шин"
+  ],
+  "prices": [],
+  "price_note": "Актуальный прайс не опубликован.",
+  "design_direction": "«Классическая мастерская на Дороге Жизни»: бордовый, стальной и светло-серый. Визуально спокойнее конкурентов: крупная фотография фасада, карта и услуги. Название «Орловский» набрано строгим гротеском, без гербов/орлов, если такого фирстиля реально нет.",
+  "maps": {
+    "yandex": "https://yandex.ru/maps/?text=%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%88.%20%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%96%D0%B8%D0%B7%D0%BD%D0%B8%2C%209%D0%91%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+    "2gis": "https://2gis.ru/spb/search/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%88.%20%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%D0%96%D0%B8%D0%B7%D0%BD%D0%B8%2C%209%D0%91%20%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B6%D1%81%D0%BA%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  "api_env": [
+    "YANDEX_MAPS_API_KEY",
+    "DGIS_MAPGL_KEY",
+    "DGIS_PLACES_API_KEY"
+  ],
+  "sources": [
+    "https://spb.spravker.ru/gorod-vsevolozhsk/podkachka-shin/",
+    "https://spb.spravker.ru/gorod-vsevolozhsk/vulkanizatsiia-shin/",
+    "https://spb.spravker.ru/gorod-vsevolozhsk/gruzovoi-shinomontazh/"
+  ],
+  "do_not_invent": [
+    "ratings",
+    "review texts",
+    "warranties",
+    "years in business",
+    "customer counts",
+    "certificates",
+    "team names",
+    "prices not explicitly verified"
+  ],
+  "visual_assets": {
+    "required_use": true,
+    "policy": "Use these stock-style generated JPEGs as hero/service visuals. Do not present them as documentary photos of the exact premises, staff, facade or customers.",
+    "assets": [
+      {
+        "file": "14_orlovskij_01.jpg",
+        "role": "hero",
+        "description_ru": "Светлая универсальная сервисная зона с автомобилем на подъёмнике.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "14_orlovskij_02.jpg",
+        "role": "service",
+        "description_ru": "Грузовой шиномонтаж и обслуживание крупного колеса.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "14_orlovskij_03.jpg",
+        "role": "service",
+        "description_ru": "Ремонт шины и вулканизация.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      },
+      {
+        "file": "14_orlovskij_04.jpg",
+        "role": "service",
+        "description_ru": "Хранение шин и дисков.",
+        "illustrative_stock_style": true,
+        "not_documentary_photo_of_business": true
+      }
+    ]
+  },
+  "theme": "classic",
+  "hero": "panorama",
+  "title": [
+    "Орловский"
+  ],
+  "tag": "Шиномонтаж на Дороге Жизни",
+  "lead": "Легковые и грузовые колёса. Шиномонтаж, вулканизация и хранение шин на Дороге Жизни, 9Б.",
+  "heading": "Каждому колесу — своё обслуживание.",
+  "feature": [
+    "Грузовой шиномонтаж",
+    "Вулканизация",
+    "Хранение шин"
+  ],
+  "accent": "#762a38",
+  "bg": "#f2f1ee",
+  "dark": "#303237",
+  "serviceStyle": "columns",
+  "slug": "orlovskij",
+  "id": 14,
+  "address": "ш. Дорога Жизни, 9Б",
+  "hours": "ежедневно 09:00–20:00",
+  "note": "",
+  "email": ""
+}
