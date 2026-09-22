@@ -1,2 +1,2 @@
 :HL["/autoservice-demos/sinopsis-plus/_next/static/css/e2fb380936d0b9fd.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ubXfrI8ruyZU-XZKqmBm5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"gw0EIRpjeLrQRqd37OOC6"}

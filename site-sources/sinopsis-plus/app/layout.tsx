@@ -31,7 +31,7 @@ export function generateMetadata(): Metadata {
     applicationName: "Синопсис плюс",
     category: "Автосервис",
     metadataBase: siteUrl,
-    alternates: siteUrl ? { canonical: siteUrl } : undefined,
+    alternates: { canonical: "https://glebmorkovin.github.io/autoservice-demos/sinopsis-plus/" },
     openGraph: {
       title,
       description,
