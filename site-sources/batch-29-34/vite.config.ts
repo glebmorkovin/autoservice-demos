@@ -7,7 +7,7 @@ const data=JSON.parse(fs.readFileSync(`src/data/${slug}.json`,'utf8'));
 const base=`/autoservice-demos/${slug}/`;
 const url=`https://glebmorkovin.github.io${base}`;
 const title=`${data.business.name} — ${data.services.slice(0,2).join(', ')} | ${data.business.location}`;
-const description=`${data.services.slice(0,3).join(', ')}. ${data.business.address}, ${data.business.location}. ${data.business.hours}. ${data.business.phones[0]}.`;
+const description=data.lead||data.commercial.lead;
 
 export default defineConfig({
   base,

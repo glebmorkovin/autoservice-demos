@@ -3,7 +3,7 @@ import raw from '@site';
 export const d=raw as typeof raw & {stamp?:string;stampLabel?:string};
 export const phone='tel:'+d.business.phones[0].replace(/[^+\d]/g,'');
 export function Arrow(){return <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" strokeWidth="1.7"/></svg>}
-export function Call({label='Позвонить',className=''}:{label?:string;className?:string}){return <a className={'button primary '+className} href={phone}>{label}<Arrow/></a>}
+export function Call({label=d.commercial.cta,className=''}:{label?:string;className?:string}){return <a className={'button primary '+className} href={phone}>{label}<Arrow/></a>}
 export function Route({label='Построить маршрут'}:{label?:string}){return <a className="button secondary" href={d.maps.yandex} target="_blank" rel="noreferrer">{label}<Arrow/></a>}
 export function Actions(){return <div className="actions"><Call/><Route/></div>}
 export function Photo({index,hero=false,className=''}:{index:number;hero?:boolean;className?:string}){const a=d.visual_assets.assets[index];return <figure className={'photo '+className}><img src={import.meta.env.BASE_URL+'images/'+a.file} alt={index===0?'Работы с автомобилем и колёсами':d.feature[index-1]} width="1672" height="941" loading={hero?'eager':'lazy'} fetchPriority={hero?'high':'auto'}/></figure>}
